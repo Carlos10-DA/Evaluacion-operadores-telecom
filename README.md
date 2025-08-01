@@ -42,3 +42,6 @@ Capacitar a operadores con desempeño bajo según métricas cuantificadas.
 Realizar monitoreo regular para mantener la calidad del servicio.
 
 🔗 Explora más proyectos en mi portafolio:
+
+
+https://github.com/Carlos10-DA/Portafolio-de-Proyectos.git 
